@@ -1,7 +1,7 @@
 # Sprint Review
 ## Roles 
 ### Scrum Master 
- -  Ingacio Soto.
+ -  Ignacio Soto.
 ### Product Owner 
  -  Mariel Muñoz.
 ### Desarroladores 
